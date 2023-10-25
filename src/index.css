@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-input {
+  width: 150px;
+  display: inline-block;
+}
+.nav-link {
+  display: inline-block;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  flex: 1;
+  margin: 10px;
+}
+
+
